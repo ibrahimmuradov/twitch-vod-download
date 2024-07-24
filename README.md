@@ -1,6 +1,7 @@
 # Twitch Stream Video Download
 
-This project I made is for downloading live stream replay videos on the Twitch platform
+This project I made is for downloading live stream replay videos on the Twitch platform. <br>
+I will develop the project further
 
 ## Installation
 
